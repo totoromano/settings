@@ -1,7 +1,9 @@
 # Coded version of "Daily UI #007 - Settings" from [@itsracine](https://twitter.com/itsracine)
 **Check it out here: [Daily UI #007 - Settings](https://dribbble.com/shots/2461403-Daily-UI-007-Settings)**
-## Time	
-	 ~ 2 Hours
+## Information	
+	 Development Time: ~ 2 Hours
+	 Foundation 6
+	 jQuery
 ## Design
 ![Design Version](/img/design-version.jpg)
 ## Development
