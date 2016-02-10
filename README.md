@@ -4,14 +4,14 @@
 	 Development Time: ~ 2 Hours
 	 Foundation 6
 	 jQuery
+	 Mobile
+	 	TBD
+	 Tablet
+	 	TBD
+	 Desktop
+	 	WIP
 ## Design
 ![Design Version](/img/design-version.jpg)
 ## Development
 ![First Draft](/img/first-draft.png)
-## Desktop
-WIP
-## Tablet
-TBD
-## Mobile
-TBD
 
